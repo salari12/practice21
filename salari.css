@@ -1,0 +1,67 @@
+.a1{
+    text-align: center;
+}
+.a2{
+    background-color: aliceblue;
+}
+.a3{
+    background-color: antiquewhite;
+}
+.a4{
+    background-color: aqua;
+}
+.a5{
+    background-color: aquamarine;
+}
+.a6{
+    background-color: azure;
+}
+.a7{
+    background-color: beige;
+}
+.a8{
+    background-color: bisque;
+}
+.a9{
+    background-color: black;
+    color: white;
+}
+.a10{
+    background-color: blanchedalmond;
+}
+.a11{
+    background-color: blue;
+}
+.a12{
+    background-color: blueviolet;
+}
+.a13{
+    background-color: brown;
+}
+.a14{
+    background-color: burlywood;
+}
+.a15{
+    background-color: cadetblue;
+}
+.a16{
+    background-color: chartreuse;
+}
+.a17{
+    background-color: cornflowerblue;
+}
+.a18{
+    background-color: darkgreen;
+}
+.a19{
+    background-color: yellowgreen;
+}
+table{
+    width: 450px;
+    height: 250px;
+    text-align: center;
+    font-size: xx-large;
+}
+body{
+    background-color: violet;
+}
